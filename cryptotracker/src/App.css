@@ -1,0 +1,25 @@
+.acc-info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100vw;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.acc-info h1 {
+  background-color: orange;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+.info {
+  width: 400px;
+}
+
+.why {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 75px;
+}
